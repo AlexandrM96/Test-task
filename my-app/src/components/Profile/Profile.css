@@ -1,0 +1,51 @@
+.profile {
+  width: 600px;
+  margin: 0 auto;
+  padding: 40px;
+  border-radius: 8px;
+  border: 2px solid black;
+  background: #496ddb;
+  margin-top: 50px;
+}
+
+.profile__title {
+  margin: 0;
+  text-align: center;
+  color: #fbf4f4;
+}
+
+.profile__container-paragraph {
+  color: #fbf4f4;
+}
+
+.profile__container-button {
+  cursor: pointer;
+  background: #fbf4f4;
+  color: #3f3e3e;
+  margin-left: 1%;
+  padding: 5px 40px;
+  font-size: 20px;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.profile__container-button:hover {
+  background: #e8e5e5;
+  border: 1px solid rgb(223, 218, 218);
+}
+
+.profile__form-button {
+  cursor: pointer;
+  background: #fbf4f4;
+  color: #3f3e3e;
+  margin-left: 1%;
+  padding: 5px 40px;
+  font-size: 20px;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.profile__form-button:hover {
+  background: #e8e5e5;
+  border: 1px solid rgb(223, 218, 218);
+}
